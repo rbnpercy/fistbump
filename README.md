@@ -1,6 +1,7 @@
-# Fistbump
+# Fistbump  -  WIP
 
-**TODO: Add description**
+**Work in Progress.**
+
 
 ## Installation
 
